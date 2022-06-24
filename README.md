@@ -1,6 +1,6 @@
 # HUBUnicesumar
 
-Projeto final desenvolvido durante o curso "Práticas de Cloud Services usando Swift com ênfase em IoT" do Hackatruck MakerSpace.
+Projeto final desenvolvido durante o curso presencial "Práticas de Cloud Services usando Swift com ênfase em IoT" do Hackatruck MakerSpace.
 
 ## Sobre o HackTruck MakerSpace
 O HackaTruck MakerSpace é um projeto de capacitação profissional de estudantes de Instituições de Ensino Superior de Tecnologia da Informação, em desenvolvimento iOS para aplicativos móveis com aplicação em Internet das Coisas (IoT).

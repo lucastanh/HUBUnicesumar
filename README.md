@@ -15,17 +15,17 @@ O objetivo do projeto foi criar um aplicativo mobile para IOS utilizando as tecn
 ## Sobre o aplicativo desenvolvido
 O aplicativo HUBUnicesumar tem como principal objetivo ajudar novos alunos da Universidade de ensino Superior Unicesumar a se localizarem e ficarem por dentro de tudo o que acontece no campus.
 
-### Funcionalidades e Telas
-  1. A principal funcionalidade do app é ajudar os alunos a localizarem um bloco dentro do Campus, ao selecionar um bloco o aplicativo usa a localização mesmo e abre um mapa com uma marcação nele, e também mostra a localização em tempo real do usuário.
+## Funcionalidades
+`Funcionalidade 1`: Localizar um bloco dentro do Campus, selecionando um bloco o aplicativo usa a localização mesmo e abre um mapa com uma marcação nele, e também mostra a localização em tempo real do usuário.
   
 <img src="ImagensApp/telaListaBlocos.jpeg" width="250px"/><img>
 <img src="ImagensApp/telaDetalhesBloco.jpeg" width="250px"/><img> 
 
-  2. A segunda funcionalidade é uma lista de utilitários espalhados pelo campus como farmácia, banco, cantinas, ao clicar no utilitário de seu interesse, temos um menu dropdown que mostra as informações desejadas como localidade e horário de funcionamento.
+`Funcionalidade 2`: Lista de utilitários espalhados pelo campus como farmácia, banco, cantinas, ao clicar no utilitário de seu interesse, temos um menu dropdown que mostra as informações desejadas como localidade e horário de funcionamento.
   
 <img src="ImagensApp/telaDetalhesUtilitarios.jpeg" width="250px"/><img>
   
-  3. A terceira funcionalidade consiste em uma tela com os eventos que estão ocorrendo no campus, onde ao clicar, o usuário será direcionado para a página oficial da universidade com todas as informações sobre o evento de escolha.
+`Funcionalidade 3`: Eventos que estão ocorrendo no campus, onde ao clicar, o usuário será direcionado para a página oficial da universidade com todas as informações sobre o evento de escolha.
   
 <img src="ImagensApp/telaEventos.jpeg" width="250px"/><img>
 
